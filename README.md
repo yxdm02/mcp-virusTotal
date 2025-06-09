@@ -65,6 +65,7 @@ pip install uv
 ### Step 1:创建和激活虚拟环境
 
 ```bash
+# 初始化项目环境
 uv init mcp-virusTotal
 cd mcp-virusTotal
 uv venv
