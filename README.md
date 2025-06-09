@@ -14,7 +14,7 @@ VirusTotal MCP Server是一个让AI结合威胁情报进行深入分析、基于
 
 效果展示：
 
-文件分析报告：
+文件（哈希值）分析报告：
 
 ![image-20250609160724561](https://picgo-yxdm-hk.oss-cn-hongkong.aliyuncs.com/typora/image-20250609160724561.png)
 
